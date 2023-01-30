@@ -1,0 +1,21 @@
+q1 write a python program to read first n lines of a file?
+
+q2 write a python program to read last n lines of a file 
+
+q3 write a python program to find the longest words??
+
+QUES-4
+WAP to handle file not found exeption?
+
+QUES-5
+WAP to write try,except,else and finally.
+    WAP to explain the answer
+
+QUES-6
+WAP to find unique number of words in a file
+
+QUES-7
+WAP to handle a none type exception in python
+
+QUES-8
+Write a python program to get the file size of a plain file

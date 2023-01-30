@@ -1,0 +1,13 @@
+Write a python program to find out all the words that ends with vowel
+Write a python program to find out all the  words start with  a digit
+Write a python program to fetch the data from, string and make sure out of range data should not be fetched again.
+
+WRITE apython proraam to fetchwords whih starts with caapital letters/
+wap that matches a string that has an a followed by eithter A-Z, a-z 0-9)
+
+WAP  to serch a strinng which start with y or z
+
+\w--[0-9],[a-z],[A-Z]
+Write a python program to fetch all the words from the string which do not contain any special character.
+Write a python program to fetch all the special symbols from the string.
+Wriite a python  program to fetch all the words which contain only alphabets and should of size of 3
