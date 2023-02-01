@@ -1,4 +1,4 @@
-#List
+#List in Python
 '''
 Data Structure: Lists
 -Basic list operations
@@ -219,7 +219,6 @@ print(queue.pop())
 print(queue.pop())
 print(queue.pop())
 print(queue.pop())
-
 print(queue)
 
 #How efficient lists are when used as stack or queue
